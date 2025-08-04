@@ -1,1 +1,2 @@
 print("xD")
+game.Workspace.Gravity = 0
