@@ -1,2 +1,2 @@
-print("vivito xD")
+print("vivito")
 game.Workspace.Gravity = 0
